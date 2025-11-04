@@ -4,4 +4,16 @@ Step 1 Answers:
 
 Step 2 Answers: 
 1. Go Ahead and Scan Me!
-2. 
+2. <form class="nst-search" id="nst-head-search" action="/search/">
+    <input class="nst-search-q" name="q" type="search" placeholder="Site Search">
+    <button class="nst-search-button" title="Search">
+     <img style="width:100%;aspect-ratio:1/1;" alt="" aria-hidden="true"
+      src="/shared/images/nst-icons.svg#search">
+     </button>
+   </form>
+
+Step 3 Answers:
+1. Yes it did
+2. N/A
+
+Step 4 Answers: 
