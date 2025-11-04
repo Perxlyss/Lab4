@@ -1,0 +1,7 @@
+Step 1 Answers:
+1. Status is OK
+2. Apache/2.4.7
+
+Step 2 Answers: 
+1. Go Ahead and Scan Me!
+2. 
