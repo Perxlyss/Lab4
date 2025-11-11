@@ -3,3 +3,37 @@ Final URL: http://scanme.nmap.org/
 Server header: Apache/2.4.7 (Ubuntu)
 Content-Type: text/html
 First 200 chars of body:\n <!DOCTYPE html>\n<html lang="en">\n<head>\n<title>Go ahead and ScanMe!</title>\n<meta name="viewport" content="width=device-width,initial-scale=1">\n<meta name="theme-color" content="#2A0D45">\n<link rel="p
+
+
+HTTP/2 200 
+date: Tue, 11 Nov 2025 11:19:11 GMT
+content-type: application/json
+content-length: 177
+server: gunicorn/19.9.0
+access-control-allow-origin: *
+access-control-allow-credentials: true
+
+{
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "MyTestAgent/1.0", 
+    "X-Amzn-Trace-Id": "Root=1-69131bad-4cf00e77299c99240c06626a"
+  }
+}
+HTTP/2 200 
+date: Tue, 11 Nov 2025 11:19:11 GMT
+content-type: application/json
+content-length: 172
+server: gunicorn/19.9.0
+access-control-allow-origin: *
+access-control-allow-credentials: true
+
+{
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/8.5.0", 
+    "X-Amzn-Trace-Id": "Root=1-69131bad-3c2e5dc52270dbf36b37f6ea"
+  }
+}

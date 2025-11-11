@@ -17,3 +17,12 @@ Step 3 Answers:
 2. N/A
 
 Step 4 Answers: 
+1. Yes
+2. Different web firewall and server rules responded differently once it detected a different type of scan.
+
+Step 5 Answers:
+
+1. Three pieces of useful information for a reconnaissance report would be;
+  - The server that it is running on.
+  - The status code of that HTTP server that it gives back to you.
+  - 
