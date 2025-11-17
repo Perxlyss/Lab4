@@ -1,0 +1,6 @@
+scanme.nmap.org:9999 is CLOSED (refused)
+scanme.nmap.org:22 is OPEN
+
+
+Scan complete in 4.83s — 2 open ports found
+Wrote results to scan_results.json
