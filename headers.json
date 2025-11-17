@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://scanme.nmap.org",
+    "error": "HTTPSConnectionPool(host='scanme.nmap.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7135d1d31f40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+  },
+  {
+    "url": "http://scanme.nmap.org",
+    "status": 200,
+    "final_url": "http://scanme.nmap.org/",
+    "server": "Apache/2.4.7 (Ubuntu)",
+    "content_type": "text/html",
+    "content_length": "2068"
+  },
+  {
+    "url": "https://testasp.vulnweb.com",
+    "error": "HTTPSConnectionPool(host='testasp.vulnweb.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7135d1d64da0>, 'Connection to testasp.vulnweb.com timed out. (connect timeout=5)'))"
+  },
+  {
+    "url": "https://demo.testfire.net",
+    "status": 200,
+    "final_url": "https://demo.testfire.net/",
+    "server": "Apache-Coyote/1.1",
+    "content_type": "text/html;charset=ISO-8859-1",
+    "content_length": null
+  },
+  {
+    "url": "https://zero.webappsecurity.com",
+    "error": "HTTPSConnectionPool(host='zero.webappsecurity.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))"
+  }
+]

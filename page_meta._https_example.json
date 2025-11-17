@@ -1,0 +1,12 @@
+{
+  "url": "https://example.com",
+  "title": "Example Domain",
+  "meta_description": null,
+  "forms": [],
+  "keyword_counts": {
+    "admin": 0,
+    "login": 0,
+    "debug": 0,
+    "error": 0
+  }
+}

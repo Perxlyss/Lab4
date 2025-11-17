@@ -1,0 +1,36 @@
+
+{
+  "url": "https://nmap.org/zenmap/",
+  "title": "Zenmap - Official cross-platform Nmap Security Scanner GUI",
+  "meta_description": "Zenmap is the official cross-platform GUI for the Nmap Security Scanner.  It is free and runs on Linux, Windows, Mac OS X, etc.",
+  "forms": [
+    {
+      "method": "GET",
+      "action": "https://nmap.org/search/",
+      "inputs": [
+        {
+          "name": "q",
+          "type": "search",
+          "value": null
+        }
+      ]
+    },
+    {
+      "method": "GET",
+      "action": "https://nmap.org/search/",
+      "inputs": [
+        {
+          "name": "q",
+          "type": "search",
+          "value": null
+        }
+      ]
+    }
+  ],
+  "keyword_counts": {
+    "admin": 0,
+    "login": 0,
+    "debug": 0,
+    "error": 0
+  }
+}
