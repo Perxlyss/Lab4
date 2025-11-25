@@ -57,4 +57,4 @@ if __name__ == '__main__':
         json.dump(output, fh, indent=2)
     print(f"Wrote results to {args.out}")
 
-    # // use " grep -B 2 '"open": true' scan_results.json | grep '"port":' | awk -F: '{gsub(/[ ,]/,"",$2); print $2}' " in command line to only show and print out open ports 
+    # // use " grep -B 2 '"open": true' scan_results.json | grep '"port":' | awk -F: '{gsub(/[ ,]/,"",$2); print $2}' " in command line to only print out open ports 
